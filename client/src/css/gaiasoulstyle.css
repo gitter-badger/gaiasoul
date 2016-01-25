@@ -80,6 +80,12 @@ img#quoteslogo {
 
 }
 
+#attention-focus button {
+	font-size:1.8em;
+
+}
+
+
 #attention-focus input {
 	width:420px;
 	font-size:2em;

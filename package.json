@@ -1,0 +1,21 @@
+{
+  "name": "gaiasoul",
+  "version": "0.0.1",
+  "single-instance": true,
+   "main" : "client/src/index.html", 
+   "window": {
+    "frame": true,
+    "width": 1200,
+    "height": 1000,
+    "toolbar": true,
+    "position": "center",
+    "resizable": true,
+    "show": true
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "nw-builder": "^2.2.0",
+     "socket.io" : "~0.9.16"   
+  }
+}
