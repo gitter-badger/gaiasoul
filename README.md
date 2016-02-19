@@ -1,5 +1,7 @@
 # gaiasoul   Peer to Peer Science SenseMaking
 
+[![Join the chat at https://gitter.im/Dsensor/gaiasoul](https://badges.gitter.im/Dsensor/gaiasoul.svg)](https://gitter.im/Dsensor/gaiasoul?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Resolution client for Dsensor Decentralized Mapping Protocol. 
 ---------------------------------------------------------------------------------------------
 
